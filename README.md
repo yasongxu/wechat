@@ -61,3 +61,4 @@ python django+微信公众平台，名称为：killme，未认证服务号，后
 
 ![image](https://github.com/yasongxu/wechat/blob/master/pic/w4.jpg?raw=true)
 
+![image](https://github.com/yasongxu/wechat/blob/master/pic/xadmin.png?raw=true)

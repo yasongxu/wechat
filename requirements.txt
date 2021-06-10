@@ -1,4 +1,4 @@
-Django==1.10
+Django==2.2.24
 MySQL-python==1.2.5
 WeRoBot==1.1.1
 argparse==1.2.1
